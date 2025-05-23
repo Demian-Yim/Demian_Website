@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hyunflix.github.io/demian-website",
+  "homepage": "https://github.com/Demian-Yim/Demian_Website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
